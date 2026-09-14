@@ -11,3 +11,4 @@ document.addEventListener("keydown", function(event) {
         player.style.left = "250px";
     }
 });
+let enemySpeed = 3;
