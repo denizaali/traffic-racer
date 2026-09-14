@@ -1,5 +1,5 @@
 let score = 0;
-
+let playerSpeed = 5;
 let player = document.getElementById("player");
 
 document.addEventListener("keydown", function(event) {
